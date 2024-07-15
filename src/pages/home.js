@@ -73,8 +73,8 @@ function Home() {
                   </button>
                   
                   {/* Add a remove button here */}
-                  
-
+</button>
+Remove
 
 
 
